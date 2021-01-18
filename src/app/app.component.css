@@ -1,0 +1,16 @@
+h1{
+    color: brown;
+    margin-left: 35%;
+
+}
+h3{
+    color:black;
+    font-family: 'Segoe UI';
+}
+div{
+    align-items: center;
+    background-color: gray;
+}
+span{
+    margin-left: 55%;
+}
